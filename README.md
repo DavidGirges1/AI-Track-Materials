@@ -5,9 +5,8 @@ Welcome to the official repository for the **AI Track** I designed and led as pa
 ---
 
 ## 🔗 Quick Links
-
-- 📑 **[Slides](https://drive.google.com/drive/folders/1bWj0r2JpbLi9bGMAwXPCz6t12Ld2fG4m?usp=drive_link)**
 - 🗂️ **[Track Plan](https://drive.google.com/file/d/1SPOPNGxbzwwScjqZ88hO9_BH_PLfvXIp/view?usp=drive_link)**
+- 📑 **[Slides](https://drive.google.com/drive/folders/1bWj0r2JpbLi9bGMAwXPCz6t12Ld2fG4m?usp=drive_link)**
 - 🎥 **[Recorded Sessions](https://drive.google.com/drive/folders/13ilwsvGJDzAjPc3gnWHVpUpIQMZYQVLE?usp=drive_link)**
 - 🚀 **[Members' Projects](https://drive.google.com/drive/folders/1UNJlrgeO6Kz_TE773GYHWuES8cEJDeGi?usp=drive_link)**
 
